@@ -6,6 +6,7 @@ sudo apt install apache2
 sudo ufw app list
 sudo ufw allow in "Apache"
 sudo ufw status
+sudo ufw enable
 http://your_server_ip
 curl http://icanhazip.com
 ```
