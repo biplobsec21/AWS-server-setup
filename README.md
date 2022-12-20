@@ -84,5 +84,5 @@ try {
 
 [Reference link 2](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-22-04)
 
-[Important link 3] (https://stackoverflow.com/questions/21461499/how-to-recover-ssh-access-to-amazon-ec2-instance-after-ufw-firewall-activation-b)
+[Important link 3](https://stackoverflow.com/questions/21461499/how-to-recover-ssh-access-to-amazon-ec2-instance-after-ufw-firewall-activation-b)
 
