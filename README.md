@@ -136,3 +136,17 @@ sudo vi /etc/apache2/apache2.conf
 
 [Important link 3](https://stackoverflow.com/questions/21461499/how-to-recover-ssh-access-to-amazon-ec2-instance-after-ufw-firewall-activation-b)
 
+[Important problems1](https://stackoverflow.com/questions/72103302/mysql-installation-on-ubuntu-20-04-error-when-using-mysql-secure-installation)
+
+[Important problems2](https://php.watch/articles/install-php82-ubuntu-debian)
+
+[Important problems3](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-22-04)
+
+[Important problems4](https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files)
+
+[Important problems5](https://askubuntu.com/questions/168191/where-is-my-phpmyadmin-installation)
+
+[Important problems6](https://tecadmin.net/how-to-install-phpmyadmin-on-ubuntu-22-04/)
+
+[Important problems7](https://stackoverflow.com/questions/11595830/php-not-interpreted-showing-in-view-source)
+
