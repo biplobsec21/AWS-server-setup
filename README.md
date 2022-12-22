@@ -35,6 +35,7 @@ nano /var/www/your_domain/index.html
 sudo nano /etc/apache2/mods-enabled/dir.conf
 sudo systemctl reload apache2
 sudo a2enmod rewrite
+sudo a2enmod headers
 ```
 ### Step 5 — Testing PHP Processing on your Web Server
 ```
