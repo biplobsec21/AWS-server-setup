@@ -39,6 +39,13 @@ sudo systemctl reload apache2
 ```
 nano /var/www/your_domain/info.php
 ```
+### insall phpmyadmin
+```
+sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+sudo a2enconf phpmyadmin.conf
+sudo systemctl restart apache2
+```
 ### Step 6 — Testing Database Connection from PHP (Optional)
 ```
 sudo mysql
