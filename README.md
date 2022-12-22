@@ -79,6 +79,7 @@ try {
     die();
 }
 ```
+```
 <VirtualHost *:80>
         # The ServerName directive sets the request scheme, hostname and port that
         # the server uses to identify itself. This is used when creating
@@ -113,7 +114,7 @@ RewriteCond %{SERVER_NAME} =www.ashura.miraikurukuru.com [OR]
 RewriteCond %{SERVER_NAME} =ashura.miraikurukuru.com
 RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
 </VirtualHost>
-
+```
 [Reference link 1](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04)
 
 [Reference link 2](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-22-04)
